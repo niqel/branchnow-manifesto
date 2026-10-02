@@ -19,3 +19,12 @@ La documentación técnica completa, implementación, componentes internos, cód
 Los términos de licencia publicados originalmente en 2025 se conservan, sin modificaciones, como documento histórico:
 
 - [HISTORICAL_LICENSE_2025.md](./HISTORICAL_LICENSE_2025.md)
+
+
+## Condiciones históricas de licencia
+
+Las condiciones de uso y licencia incluidas en el manifiesto original de 2025 se conservan públicamente, sin modificaciones, en:
+
+- [HISTORICAL_LICENSE_TERMS_2025.md](./HISTORICAL_LICENSE_TERMS_2025.md)
+
+Este documento reproduce únicamente las secciones de licencia y uso del manifiesto histórico; la documentación técnica completa permanece fuera de esta publicación pública.
