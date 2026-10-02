@@ -12,3 +12,10 @@ La documentación histórica completa y su historial original se conservan en el
 Este repositorio público tiene únicamente el propósito de dejar constancia de la existencia previa de BranchNow y de su fecha de publicación original.
 
 La documentación técnica completa, implementación, componentes internos, código y know-how asociado no forman parte de esta publicación pública.
+
+
+## Términos históricos de 2025
+
+Los términos de licencia publicados originalmente en 2025 se conservan, sin modificaciones, como documento histórico:
+
+- [HISTORICAL_LICENSE_2025.md](./HISTORICAL_LICENSE_2025.md)
