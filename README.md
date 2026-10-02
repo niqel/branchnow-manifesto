@@ -28,3 +28,12 @@ Las condiciones de uso y licencia incluidas en el manifiesto original de 2025 se
 - [HISTORICAL_LICENSE_TERMS_2025.md](./HISTORICAL_LICENSE_TERMS_2025.md)
 
 Este documento reproduce únicamente las secciones de licencia y uso del manifiesto histórico; la documentación técnica completa permanece fuera de esta publicación pública.
+
+
+## Licencia vigente
+
+A partir del 2 de octubre de 2026, las nuevas autorizaciones, integraciones, distribuciones y usos continuados sujetos a licencia se regulan por:
+
+- [LICENSE_2026.md](./LICENSE_2026.md)
+
+Los documentos de 2025 se conservan únicamente como registro histórico de las condiciones publicadas en ese momento.
