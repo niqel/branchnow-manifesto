@@ -1,15 +1,14 @@
-# BranchNow Manifesto
+# BranchNow
 
-Repositorio público del manifiesto de **BranchNow**.
+**Autor:** Gustavo Meléndez Villarreal  
+**Publicación original:** 16 de abril de 2025
 
-El documento `BranchNow_Manifesto_v1.0.md` fue publicado originalmente por **Gustavo Meléndez Villarreal** el **16 de abril de 2025** en el repositorio original de BranchNow.
+BranchNow es un proyecto de arquitectura de software desarrollado de forma independiente y publicado originalmente en 2025, antes de cualquier relación posterior del autor con terceros.
 
-Esta copia pública conserva **sin modificaciones** el contenido de la versión 1.0 original.
+El proyecto aborda, a nivel general, la distribución y actualización versionada de datos, interfaces y lógica de aplicación, con un enfoque modular y orientado a operación distribuida.
 
-## Documento
+La documentación histórica completa y su historial original se conservan en el repositorio privado de origen como evidencia de anterioridad y autoría.
 
-- [BranchNow Manifesto v1.0](./BranchNow_Manifesto_v1.0.md)
+Este repositorio público tiene únicamente el propósito de dejar constancia de la existencia previa de BranchNow y de su fecha de publicación original.
 
-## Nota de preservación
-
-La versión 1.0 se mantiene como documento histórico. Cualquier aclaración, corrección o evolución futura deberá publicarse de forma separada, sin alterar el contenido original de esta versión.
+La documentación técnica completa, implementación, componentes internos, código y know-how asociado no forman parte de esta publicación pública.
